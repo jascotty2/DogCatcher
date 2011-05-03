@@ -1,0 +1,7 @@
+name: DogCatcher
+main: com.jascotty2.dogcatcher.DogCatcher
+version: 0.0.0.1
+website: http://github.com/
+author: jascotty2
+description: >
+             Provides ways to find wolves & their owners
